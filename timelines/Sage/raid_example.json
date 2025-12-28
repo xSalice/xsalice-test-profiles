@@ -1,0 +1,9 @@
+{
+  "Id": "raid_example",
+  "Name": "Raid Example",
+  "Description": "Example timeline for testing GitHub sync",
+  "CreatedAt": "2025-12-27T00:00:00Z",
+  "ModifiedAt": "2025-12-27T00:00:00Z",
+  "Version": "1.0.0",
+  "Entries": []
+}

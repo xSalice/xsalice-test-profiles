@@ -1,0 +1,9 @@
+{
+  "Id": "template",
+  "Name": "Monk Template",
+  "Description": "Template event profile for Monk",
+  "CreatedAt": "2025-12-28T00:00:00Z",
+  "ModifiedAt": "2025-12-28T00:00:00Z",
+  "Version": "1.0.0",
+  "Entries": []
+}
